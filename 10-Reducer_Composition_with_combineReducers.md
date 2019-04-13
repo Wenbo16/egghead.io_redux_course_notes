@@ -1,4 +1,4 @@
-# 10.Reducer Composition with `combineReducers()`
+# 10. Reducer Composition with `combineReducers()`
 [Video Link](https://egghead.io/lessons/javascript-redux-reducer-composition-with-combinereducers)
 
 Since reducer composition is so common in Redux, there's a helper function `combineReducers()`
