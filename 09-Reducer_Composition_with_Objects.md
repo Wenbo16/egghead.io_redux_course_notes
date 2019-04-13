@@ -1,4 +1,4 @@
-# 14. Reducer Composition with Objects
+# 09. Reducer Composition with Objects
 [Video Link](https://egghead.io/lessons/javascript-redux-reducer-composition-with-objects)
 
 In the last section, we used reducer composition to manage Todos in an array.
